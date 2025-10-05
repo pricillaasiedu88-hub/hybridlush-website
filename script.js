@@ -1,0 +1,3 @@
+<!-- FILE: script.js -->
+// Simple client code to create a Stripe Checkout session
+...
